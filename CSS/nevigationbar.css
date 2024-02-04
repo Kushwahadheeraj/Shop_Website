@@ -1,0 +1,182 @@
+.fa {
+  /* padding: 20px; */
+  /* font-size: 30px; */
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+
+/* 888888888888888888888888888888888888888 */
+.preview__header{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  box-sizing: border-box;
+  font-size: 12px;
+  height: 60px;
+  background-color: #2e2e2d;
+  z-index: 100;
+  line-height: 54px;
+  margin-bottom: 1px;
+  position: fixed;
+  width: 100%;
+  top: -1px;
+}
+.preview__envato-logo{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  font-size: 12px;
+  line-height: 54px;
+  box-sizing: border-box;
+  float: left;
+  padding: 0 20px;
+}
+.preview__envato-logo a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12px;
+line-height: 54px;
+color:white;
+margin-left: 100px;
+text-decoration: none;
+font-size: 30px;
+}
+.preview__actions{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  font-size: 12px;
+  line-height: 54px;
+  box-sizing: border-box;
+  float: right;
+}
+.preview__action--buy{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #545454;
+font-size: 12px;
+line-height: 54px;
+box-sizing: border-box;
+display: inline-block;
+/* padding: 0 20px; */
+}
+.color-primary{
+  -webkit-font-smoothing: antialiased;
+box-sizing: border-box;
+display: inline-block;
+margin: 0;
+border: none;
+border-radius: 0 14px ;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-align: center;
+text-decoration: none;
+cursor: pointer;
+color: white;
+font-size: 22px;
+padding: 5px 20px;
+line-height: 1.5;
+background-color: #bb08f1;
+box-shadow: 0 2px 0 #f50f07;
+position: relative;
+}
+
+.color-primary:hover{
+  background-color: cyan;
+  color: #2e2e2d;
+  border-radius: 15px 0;
+  box-shadow: 0 2px 3px chartreuse;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.preview__action--close{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  font-size: 12px;
+  line-height: 54px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0 20px;
+  border-left: 1px solid #333333;
+}
+.preview__action--close a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 54px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0 20px;
+  color: #f5faee;
+  border-left: 1px solid #333333;
+  text-decoration: none;
+  background-color: rgb(28, 3, 255);
+  border-radius: 15px 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.preview__action--close a:hover{
+  color: #2e2e2d;
+  background-color: rgb(237, 253, 20);
+  border-radius: 0 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.preview__actions{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  font-size: 12px;
+  line-height: 54px;
+  box-sizing: border-box;
+  float: right;
+}
+.preview__action--buy{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #545454;
+font-size: 12px;
+line-height: 54px;
+box-sizing: border-box;
+display: inline-block;
+/* padding: 0 20px; */
+}
+.-color-primary{
+  -webkit-font-smoothing: antialiased;
+box-sizing: border-box;
+display: inline-block;
+margin: 0;
+border: none;
+border-radius: 4px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-align: center;
+text-decoration: none;
+cursor: pointer;
+color: white;
+font-size: 22px;
+padding: 5px 20px;
+line-height: 1.5;
+background-color: #82b440;
+box-shadow: 0 2px 0 #6f9a37;
+position: relative;
+}
+.preview__action--close{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #545454;
+  font-size: 12px;
+  line-height: 54px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0 20px;
+  border-left: 1px solid #333333;
+}
+.preview__action--close a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 54px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0 20px;
+  color: #f5faee;
+  border-left: 1px solid #333333;
+  text-decoration: none;
+}
